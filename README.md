@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d39d2b57e1bf491ebd93196943b15cf5)](https://app.codacy.com/manual/steve148/python-graphql-client?utm_source=github.com&utm_medium=referral&utm_content=steve148/python-graphql-client&utm_campaign=Badge_Grade_Dashboard)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 ![Python CI Checks](https://github.com/prodigyeducation/python-graphql-client/workflows/Python%20CI%20Checks/badge.svg)
 ![Upload Python Package](https://github.com/prodigyeducation/python-graphql-client/workflows/Upload%20Python%20Package/badge.svg)
